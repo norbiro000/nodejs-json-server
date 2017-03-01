@@ -1,3 +1,4 @@
 # nodejs-json-server
-# Run Project by
+## Run Project by
+> npm install
 > npm start
