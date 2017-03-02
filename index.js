@@ -1,4 +1,4 @@
-// Auther: Norbiro000
+// Author: Norbiro000
 const http = require('http')
 const fs = require('fs')
 const Promise = require('bluebird')
